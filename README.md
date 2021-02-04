@@ -1,5 +1,3 @@
-# Chaikabot
-Bot gif sticker español
 ### Hola soy ChaikaBot
 
 
@@ -240,9 +238,9 @@ Siga los pasos a continuación!
 
 - [ToinNetuh] (https://github.com/ToinNetuh/ToiniuBot)
 - [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys) 
-- [Ryz Rdy](https://github.com/RyzRdy)
-- [Pari tsod](https://github.com/Paritsod)
-- [mrfz vx12](https://github.com/mrfzvx12)
-- [Mr -hadi](https://github.com/Mr-hadi)
-- [Mhank BarBar](https://github.com/mhankbarbar)
-- [Naz waS](https://github.com/NazwaS)
+- [RyzRdy](https://github.com/RyzRdy)
+- [Paritsod](https://github.com/Paritsod)
+- [mrfzvx12](https://github.com/mrfzvx12)
+- [Mr-hadi](https://github.com/Mr-hadi)
+- [MhankBarBar](https://github.com/mhankbarbar)
+- [NazwaS](https://github.com/NazwaS)
