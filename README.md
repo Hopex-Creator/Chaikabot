@@ -234,13 +234,13 @@ Siga los pasos a continuación!
 
 
 
-## Agradecimentos especiales para
+## Agradecimentos especiales para por crear el bot original
 
 - [ToinNetuh] (https://github.com/ToinNetuh/ToiniuBot)
 - [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys) 
-- [RyzRdy](https://github.com/RyzRdy)
-- [Paritsod](https://github.com/Paritsod)
-- [mrfzvx12](https://github.com/mrfzvx12)
-- [Mr-hadi](https://github.com/Mr-hadi)
-- [MhankBarBar](https://github.com/mhankbarbar)
-- [NazwaS](https://github.com/NazwaS)
+- [Ryz-Rdy](https://github.com/RyzRdy)
+- [Parit-sod](https://github.com/Paritsod)
+- [mrfz-vx12](https://github.com/mrfzvx12)
+- [Mr--hadi](https://github.com/Mr-hadi)
+- [Mhank-BarBar](https://github.com/mhankbarbar)
+- [Naz-waS](https://github.com/NazwaS)
